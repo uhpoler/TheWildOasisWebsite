@@ -1,3 +1,10 @@
+import Navigation from "../components/Navigatin";
+
 export default function Page() {
-  return <hi>About The Wild Oasis</hi>;
+  return (
+    <div>
+      <Navigation />
+      <hi>About The Wild Oasis</hi>;
+    </div>
+  );
 }
