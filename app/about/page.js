@@ -3,8 +3,7 @@ import Navigation from "../components/Navigatin";
 export default function Page() {
   return (
     <div>
-      <Navigation />
-      <hi>About The Wild Oasis</hi>;
+      <h1>About The Wild Oasis</h1>;
     </div>
   );
 }

@@ -3,8 +3,7 @@ import Navigation from "../components/Navigatin";
 export default function Page() {
   return (
     <div>
-      <Navigation />
-      <hi>Your account</hi>;
+      <h1>Your account</h1>;
     </div>
   );
 }
