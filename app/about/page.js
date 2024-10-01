@@ -1,5 +1,3 @@
-import Navigation from "../_components/Navigatin";
-
 export const metadata = {
   title: "About",
 };
@@ -7,7 +5,7 @@ export const metadata = {
 export default function Page() {
   return (
     <div>
-      <h1>About The Wild Oasis</h1>;
+      <h1>About The Wild Oasis</h1>
     </div>
   );
 }
